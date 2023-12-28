@@ -1,4 +1,4 @@
-"""
+n"""
 pythoneda/shared/artifact/artifact/events/__init__.py
 
 This file ensures pythoneda.shared.artifact.artifact.events is a namespace.

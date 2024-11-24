@@ -1,5 +1,5 @@
 # vim: set fileencoding=utf-8
-n"""
+"""
 pythoneda/shared/artifact/artifact/events/__init__.py
 
 This file ensures pythoneda.shared.artifact.artifact.events is a namespace.
@@ -25,6 +25,7 @@ from .artifact_changes_committed import ArtifactChangesCommitted
 from .artifact_commit_pushed import ArtifactCommitPushed
 from .artifact_commit_tagged import ArtifactCommitTagged
 from .artifact_tag_pushed import ArtifactTagPushed
+
 # vim: syntax=python ts=4 sw=4 sts=4 tw=79 sr et
 # Local Variables:
 # mode: python
